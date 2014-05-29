@@ -1,0 +1,3 @@
+/* Localized versions of Info.plist keys */
+
+"NSContactsUsageDescription" = "申请授权访问联系人列表";
